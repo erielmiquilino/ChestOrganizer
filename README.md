@@ -22,7 +22,7 @@ A Minecraft Bedrock add-on that automatically organizes chest contents when you 
 
 ### 1. Download the Add-on
 
-Download the [`ChestOrganizer.mcaddon`](ChestOrganizer.mcaddon) file from this repository.
+Download the [`ChestOrganizer.mcaddon`](https://github.com/erielmiquilino/ChestOrganizer/releases/tag/1.0.0) file from releases.
 
 ### 2. Install in Minecraft
 
